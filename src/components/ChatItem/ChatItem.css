@@ -1,0 +1,33 @@
+.chat-item {
+  background: #6684fc;
+  width: 300px;
+  height: 100px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  gap: 20px;
+}
+
+.chat-icon {
+  width: 75px;
+  height: 75px;
+  background: #fff;
+  border-radius: 100%;
+  padding: 10px;
+}
+
+.chat-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  gap: 5px;
+}
+
+.chat-title {
+  color: #fff;
+}
+
+.chat-text {
+  color: #4a4b5f;
+}

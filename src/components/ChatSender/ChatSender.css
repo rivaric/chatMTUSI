@@ -1,0 +1,25 @@
+.chat-sender {
+  width: 100%;
+  display: flex;
+  gap: 10px;
+  width: 100%;
+}
+
+.chat-sender-input {
+  background: #232937;
+  border: 0;
+  color: #fff;
+  height: 50px;
+  width: 100%;
+  border-radius: 15px;
+  padding: 0 15px;
+}
+
+.chat-sender-btn {
+  background: #6683fc;
+  border: 0;
+  height: 50px;
+  width: 50px;
+  border-radius: 15px;
+  padding: 5px;
+}

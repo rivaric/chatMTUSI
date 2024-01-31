@@ -1,0 +1,19 @@
+.message {
+  padding: 25px 40px;
+  border-radius: 15px;
+  max-width: 60%;
+}
+
+.client {
+  margin-left: auto;
+  background: #6684fc;
+  color: #fff;
+  border-bottom-right-radius: 5px;
+}
+
+.gpt {
+  margin-right: auto;
+  background: #232937;
+  color: #8788a2;
+  border-bottom-left-radius: 5px;
+}

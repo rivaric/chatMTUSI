@@ -1,0 +1,8 @@
+.chat-space-header {
+  height: 100px;
+  width: 100%;
+  background: #232937;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+}
